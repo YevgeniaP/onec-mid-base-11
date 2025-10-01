@@ -10,4 +10,9 @@
   <content>Catalog.ЕИ_КонтактныеЛица</content>
   <content>Catalog.ЕИ_Должности</content>
   <content>CommonModule.ПодключаемыеКоманды</content>
+  <content>Document.ЗаказПокупателя</content>
+  <content>Document.ОплатаОтПокупателя</content>
+  <content>Document.ОплатаПоставщику</content>
+  <content>Document.ПоступлениеТоваровУслуг</content>
+  <content>Document.РеализацияТоваровУслуг</content>
 </mdclass:Subsystem>
