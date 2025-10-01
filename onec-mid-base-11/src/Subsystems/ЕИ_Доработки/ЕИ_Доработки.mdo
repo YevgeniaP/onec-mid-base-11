@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ЕИ_КонтактныеЛица</content>
   <content>Catalog.ЕИ_Должности</content>
+  <content>CommonModule.ПодключаемыеКоманды</content>
 </mdclass:Subsystem>
